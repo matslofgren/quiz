@@ -1,3 +1,3 @@
 # quiz
 
-Javascript script for RE
+Javascript quiz for RE
